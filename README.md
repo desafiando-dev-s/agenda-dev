@@ -1,6 +1,6 @@
 # Vaga: Desenvolvedor Full Stack 🚀
 
-## Agenda Dev- A Revolução na Gestão de Contatos 📅🖥️
+## Agenda Dev - A Revolução na Gestão de Contatos 📅🖥️
 
 ### Descrição
 
