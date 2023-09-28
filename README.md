@@ -50,7 +50,7 @@ E aí, jovem dev! 👋 Queremos alguém tão apaixonado por desenvolvimento web 
 
 ### Recursos Adicionais 🌐
 
-- Solte sua criatividade! Adicione funcionalidades únicas que tornem a Web Agenda uma ferramenta indispensável para o gerenciamento de contatos e comunicação eficaz. 💡
+- Solte sua criatividade! Adicione funcionalidades únicas que tornem a Agenda Dev uma ferramenta indispensável para o gerenciamento de contatos e comunicação eficaz. 💡
 
 ### Tecnologias
 
