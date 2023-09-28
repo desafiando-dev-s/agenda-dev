@@ -18,7 +18,7 @@ E aí, jovem dev! 👋 Queremos alguém tão apaixonado por desenvolvimento web 
 
 #### Pesquisa Avançada de Empresas 🔍
 
-- Realize pesquisas avançadas para encontrar empresas usando filtros como razão social, nome fantasia ou CNPJ, tornando a localização de empresas rápida e eficiente. 🏢
+- Realize pesquisas avançadas para encontrar empresas usando filtros como razão social, nome fantasia ou CNPJ. E, para facilitar ainda mais, mostre o mapa do endereço com o Google Maps. 🗺️tornando a localização de empresas rápida e eficiente. 🏢
 
 #### Edição e Exclusão de Empresas ✏️🗑️
 
