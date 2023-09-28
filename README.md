@@ -1,10 +1,10 @@
 # Vaga: Desenvolvedor Full Stack 🚀
 
-## Agenda DEV- A Revolução na Gestão de Contatos 📅🖥️
+## Agenda Dev- A Revolução na Gestão de Contatos 📅🖥️
 
 ### Descrição
 
-E aí, jovem dev! 👋 Queremos alguém tão apaixonado por desenvolvimento web quanto nós para se juntar à nossa equipe. Desafio aceito? 😎 Vamos criar juntos a "Agenda DEV", uma aplicação web que vai além de uma simples lista de contatos. Ela oferece funcionalidades incríveis para o gerenciamento de informações pessoais e comunicação. Se você está pronto para enfrentar desafios e fazer parte do nosso time, essa vaga é para você. 🌟
+E aí, jovem dev! 👋 Queremos alguém tão apaixonado por desenvolvimento web quanto nós para se juntar à nossa equipe. Desafio aceito? 😎 Vamos criar juntos a "Agenda Dev", uma aplicação web que vai além de uma simples lista de contatos. Ela oferece funcionalidades incríveis para o gerenciamento de informações pessoais e comunicação. Se você está pronto para enfrentar desafios e fazer parte do nosso time, essa vaga é para você. 🌟
 
 ### Requisitos Funcionais
 
@@ -62,4 +62,4 @@ E aí, jovem dev! 👋 Queremos alguém tão apaixonado por desenvolvimento web 
 
 ### Envio dos Repositórios
 
-Depois de desenvolver o sistema da Agenda DEV, envie os repositórios do GitHub para [rayan@grupoavp.com.br](mailto:rayan@grupoavp.com.br). Vamos nessa! 💪
+Depois de desenvolver o sistema da Agenda Dev, envie os repositórios do GitHub para [rayan@grupoavp.com.br](mailto:rayan@grupoavp.com.br). Vamos nessa! 💪
