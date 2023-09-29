@@ -62,4 +62,4 @@ E aí, jovem dev! 👋 Queremos alguém tão apaixonado por desenvolvimento web 
 
 ### Envio dos Repositórios
 
-Depois de desenvolver o sistema da Agenda Dev, envie os repositórios do GitHub para [rayan@grupoavp.com.br](mailto:rayan@grupoavp.com.br). Vamos nessa! 💪
+Depois de desenvolver o sistema da Agenda Dev, envie os repositórios do GitHub para [rayan@grupoavp.com.br](mailto:rayan@grupoavp.com.br) até dia 10/10/2023. Vamos nessa! 💪
